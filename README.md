@@ -1,8 +1,14 @@
-# Refactoring
-Ryan's first homework assignment
+# Refactoring Horiseon
+This project contains a refactoring of both the HTML and CSS of the Horiseon webpage. The original design remains.
 
-Edits:
+# Edits:
 Title
 Combined classes CSS
-Replaced <div> in html
-Added id to search-engine-optimization
+Added semantic tags HTML
+Added alt attributes to img elements
+Removed unneccesary elements from CSS
+
+# Furthur Developments:
+Continue to refactor both HTML & CSS
+
+
