@@ -2,6 +2,10 @@
 This project contains a refactoring of both the HTML and CSS of the Horiseon webpage. The original design remains.
 
 # Edits:
+<ol>
+  <li>Title</li>
+</ol>  
+  
 Title
 Combined classes CSS
 Added semantic tags HTML
