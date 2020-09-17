@@ -1,4 +1,4 @@
-# homework_1
+# Refactoring
 Ryan's first homework assignment
 
 Edits:
