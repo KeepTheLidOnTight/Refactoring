@@ -4,13 +4,11 @@ This project contains a refactoring of both the HTML and CSS of the Horiseon web
 # Edits:
 <ol>
   <li>Title</li>
+  <Li>Combined classes CSS</li>
+  <li>Added semantic tags HTML</li>
+  <li>Added alt attributes to img elements<li>
+  <li>Removed unneccesary elements from CSS<li>
 </ol>  
-  
-Title
-Combined classes CSS
-Added semantic tags HTML
-Added alt attributes to img elements
-Removed unneccesary elements from CSS
 
 # Furthur Developments:
 Continue to refactor both HTML & CSS
