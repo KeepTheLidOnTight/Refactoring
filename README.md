@@ -1,6 +1,10 @@
 # Refactoring Horiseon:
 This project contains a refactoring of both the HTML and CSS of the Horiseon webpage. The original design remains.
 
+See here:
+
+[Horiseon](https://keepthelidontight.github.io/Refactoring/)
+
 # Edits:
 <ol>
   <li>Title</li>
@@ -13,4 +17,4 @@ This project contains a refactoring of both the HTML and CSS of the Horiseon web
 # Furthur Developments:
 Continue to refactor both HTML & CSS
 
-[Horiseon](https://keepthelidontight.github.io/Refactoring/)
+
